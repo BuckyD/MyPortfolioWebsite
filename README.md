@@ -1,1 +1,1 @@
-# MyPortfolioWebsite
+https://chimsgondwesblog.netlify.app/
